@@ -133,7 +133,7 @@ function initDefragRect(obj, tempType, tempFilename){
 		//initializing
 		tempSize = {
 			x: 4,
-			y: 8
+			y: 6
 		}
 
 		tempFillColor = {
